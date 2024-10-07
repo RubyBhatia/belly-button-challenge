@@ -1,8 +1,9 @@
 # belly-button-challenge
 Challenge-14
 1. Updated JSON URL: Changed the data source to https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json.
+   ![Screenshot 2024-10-07 140518](https://github.com/user-attachments/assets/ddde45b1-7163-443a-88a3-5b6a6cd16263)
 
-3. Bar Chart Adjustments:
+2.. Bar Chart Adjustments:
    Labels: Used otu_ids for the y-axis labels.
    Values: Used sample_values for the bar lengths.
    Hovertext: Used otu_labels for hover information.
